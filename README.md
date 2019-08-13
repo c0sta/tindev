@@ -1,7 +1,7 @@
 
 # ![tindev](https://user-images.githubusercontent.com/36762964/62957837-efc22680-bdcb-11e9-8be4-65ced1e4664c.png)
 
-Projeto desenvolvido ao longo da Omnistack 8.0, curso de uma semana da Rocketseat onde é desenvolvido uma aplicação completa com o Back-end e Front-end.
+Projeto desenvolvido ao longo da Omnistack 8.0, curso de uma semana da [Rocketseat](https://rocketseat.com.br/) onde é desenvolvido uma aplicação completa com o Back-end e Front-end.
 
 # Sobre
 Projeto desenvolvido com as seguintes tecnologias:
