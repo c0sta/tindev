@@ -6,9 +6,9 @@ Projeto desenvolvido ao longo da Omnistack 8.0, curso de uma semana da [Rocketse
 # Sobre
 Projeto desenvolvido com as seguintes tecnologias:
 * [Node.js](https://nodejs.org/en/)
-* [ReactJs](https://reactjs.org/)
 * [MongoDB](https://www.mongodb.com/)
 * [Docker](https://www.docker.com/)
+* [ReactJs](https://reactjs.org/)
 
 # Prints
 
